@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ReadFile from './components/Read_file';
 import OutputRes from './components/Output';
